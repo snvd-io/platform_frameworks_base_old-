@@ -582,7 +582,7 @@ public class GosPackageStatePmHooks {
             grantPermission(pm, CONTACTS_PROVIDER_PACKAGE,
                     Permission.readOnly(FLAG_CONTACT_SCOPES_ENABLED, FIELD_CONTACT_SCOPES));
 
-            grantPermission(pm, "com.android.launcher3",
+            grantPermission(pm, "com.codesteem.mylauncher",
                     Permission.readOnly(FLAG_STORAGE_SCOPES_ENABLED
                                     | FLAG_CONTACT_SCOPES_ENABLED
                             , 0,
