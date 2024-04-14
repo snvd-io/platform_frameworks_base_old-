@@ -9,5 +9,5 @@ public interface KnownSystemPackages {
     String MEDIA_PROVIDER = "com.android.providers.media.module";
     String CONTACTS_PROVIDER = "com.android.providers.contacts";
 
-    String LAUNCHER = "com.android.launcher3";
+    String LAUNCHER = "com.codesteem.mylauncher";
 }
